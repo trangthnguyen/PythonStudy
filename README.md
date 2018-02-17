@@ -1,2 +1,4 @@
 # PythonStudy
-Python exercise
+
+Python exercise for CS6001
+
